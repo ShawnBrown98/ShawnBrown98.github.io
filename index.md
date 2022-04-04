@@ -6,8 +6,6 @@
 # Job or Desired Job Summary
 # Contact Fields
 
-# Education
-# Name
 <h1> Shawn Brown </h3>
 # Headshot (Photo)
 # Job Title or Desired title
