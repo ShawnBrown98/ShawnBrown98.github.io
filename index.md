@@ -1,19 +1,11 @@
-# Name 
+# Name
+<h1> Shawn Brown </h3>
 # Headshot (Photo)
 # Job Title or Desired title
+<h1> Jr. Software Engineer </h3>
 # Job or Desired Job Summary
-# Contact Fields 
+# Contact Fields
 
 # Education
 # Previous Job Experience
 # Skills
-
-# Featured Projects
-# Portfolio
-# Case Studies
-
-# Licenses and Certifications
-# Honors and Awards
-# Test Scores
-# Languages
-# Organizations, Clubs, Teams, Causes
