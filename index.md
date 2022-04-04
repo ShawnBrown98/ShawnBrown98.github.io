@@ -35,7 +35,7 @@
   <section id="education">
     <div class="accordion">
       <div class='accordion-header'>
-        <div class="accordion-title"">Mount Aloysius College </div>
+        <div class="accordion-title">Mount Aloysius College </div>
         <span class="accordion-icon">+</span>
       </div>
       <div class="accordion-content">
