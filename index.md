@@ -13,7 +13,7 @@
     display: flex;
     padding: 16px;
     cursor: pointer;
-    background-color: #000
+    background-color: #F2F2F2
   }
   .accordion-icon {
     width: 16px
@@ -21,7 +21,6 @@
   }
   .accordion-content {
     padding: 16px;
-    color: #FFFFFF
 
   }
   .accordion-title {
