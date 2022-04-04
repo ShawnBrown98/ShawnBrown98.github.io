@@ -13,7 +13,7 @@
     display: flex;
     padding: 16px;
     cursor: pointer;
-    background-color: #7393B3
+    background-color: #000
   }
   .accordion-icon {
     width: 16px
