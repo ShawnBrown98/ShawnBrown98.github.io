@@ -21,6 +21,7 @@
   }
   .accordion-content {
     padding: 16px;
+    color: #FFFFFF
 
   }
   .accordion-title {
