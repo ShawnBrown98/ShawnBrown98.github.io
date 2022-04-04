@@ -1,18 +1,9 @@
 # Name
 <h1> Shawn Brown </h1>
 # Headshot (Photo)
-# Job Title or Desired title
-<h1> Jr. Software Engineer </h1>
-# Job or Desired Job Summary
 # Contact Fields
-
-<h1> Shawn Brown </h3>
-# Headshot (Photo)
 # Job Title or Desired title
 <h1> Jr. Software Engineer </h3>
-# Job or Desired Job Summary
-# Contact Fields
-
 # Education
 <style>
   .accordion{
@@ -78,5 +69,3 @@ for(let i=0; i < accordionHeaders.length; i++){
 # Previous Job Experience
 # Skills
 
-# Previous Job Experience
-# Skills
