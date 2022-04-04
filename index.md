@@ -45,7 +45,7 @@
     <section id="education">
       <div class="accordion">
         <div class='accordion-header'>
-          <div class="accordion-title"">Greater Altoona Career and Technology Center </div>
+          <div class="accordion-title">Greater Altoona Career and Technology Center </div>
           <span class="accordion-icon">+</span>
         </div>
         <div class="accordion-content">
