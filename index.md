@@ -1,9 +1,8 @@
-# Name
 <h1> Shawn Brown </h1>
 # Headshot (Photo)
 # Contact Fields
 # Job Title or Desired title
-<h1> Jr. Software Engineer </h3>
+<h1> Jr. Software Engineer </h1>
 # Education
 <style>
   .accordion{
@@ -53,6 +52,7 @@
           Cisco Networking 2017
         </div>
       </div>
+    </section>
 <script>
 const accordionHeaders = document.getElementsByClassName('accordion-header');
 const accordionContents = document.getElementsByClassName('accordion-content');
@@ -66,7 +66,6 @@ for(let i=0; i < accordionHeaders.length; i++){
   })
 }
 </script>
-  </section>
 # Previous Job Experience
 # Skills
 
