@@ -14,7 +14,7 @@
     </section>
   
 # Job Title
-<h1> Jr. Software Engineer </h1>
+Jr. Software Engineer 
 # Education
 <style>
   .accordion{
