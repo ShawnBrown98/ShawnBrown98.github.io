@@ -1,5 +1,5 @@
 <h1> Shawn Brown </h1>
-# Headshot (Photo)
+Jr. Software Engineer 
 # Contact Me
   <section id="Contact">
     <div class="accordion">
@@ -12,9 +12,6 @@
       </div>
     </div>
     </section>
-  
-# Job Title
-Jr. Software Engineer 
 # Education
 <style>
   .accordion{
