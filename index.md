@@ -117,7 +117,9 @@
         Discord Bot Project (Python)
         <br>
         Unity Games (C#)
+        <br>
         Calculator (JavaScript)
+        <br>
         Inches to CM/MM Converter (C++)
       </div>
     </div>
