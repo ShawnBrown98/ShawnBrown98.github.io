@@ -32,6 +32,7 @@
           <br>
           <a href="https://github.com/ShawnBrown98">My school github </a>
         </div>
+        </section>
         
 <style>
   .accordion{
