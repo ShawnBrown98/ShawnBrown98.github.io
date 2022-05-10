@@ -23,7 +23,6 @@ Jr. Software Engineer
         stbrown98@gmail.com
       </div>
     </div>
-     <section id="Contact">
       <div class="accordion">
         <div class='accordion-header'>
           <div class="accordion-title">Github</div>
@@ -72,7 +71,6 @@ Jr. Software Engineer
         Bachelor of Science: Information Technology 2023
       </div>
     </div>
-    <section id="education">
       <div class="accordion">
         <div class='accordion-header'>
           <div class="accordion-title">Greater Altoona Career and Technology Center </div>
