@@ -115,6 +115,7 @@
       </div>
       <div class="accordion-content">
         Discord Bot Project (Python)
+        <br>
         Unity Games (C#)
         Calculator (JavaScript)
         Inches to CM/MM Converter (C++)
