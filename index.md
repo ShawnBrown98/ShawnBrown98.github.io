@@ -133,7 +133,7 @@ Jr. Software Engineer
         <br>
         Inches to CM/MM Converter (C++)
         <br>
-        Seasons Changer (JavaScript)
+        <a href="https://shawnbrown98.github.io/assignment9.html"> Seasons Changer (JavaScript) </a>
       </div>
     </div>
     <section id="Skills">
