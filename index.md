@@ -13,8 +13,7 @@
     </div>
     <section id="Contact">
     </section>
-<h2>Email: stbrown98@gmail.com</h2>
-# Job Title or Desired title
+# Job Title
 <h1> Jr. Software Engineer </h1>
 # Education
 <style>
