@@ -31,7 +31,7 @@
         <div class="accordion-content">
           <a href="https://github.com/Operance">My personal Github </a>
           <br>
-          <a href="https://github.com/ShawnBrown98">My school github </a>
+          <a href="https://github.com/ShawnBrown98">My school Github </a>
         </div>
       </div>
   </section>
