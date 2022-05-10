@@ -11,7 +11,8 @@
       </div>
     </div>
 Jr. Software Engineer 
-# Contact Me
+  
+  <h1> Contact Me </h1>
   <section id="Contact">
     <div class="accordion">
       <div class='accordion-header'>
@@ -33,8 +34,7 @@ Jr. Software Engineer
           <br>
           <a href="https://github.com/ShawnBrown98">My school github </a>
         </div>
-    </section>
-# Education
+        
 <style>
   .accordion{
     max-width: 500px;
@@ -60,9 +60,8 @@ Jr. Software Engineer
   .accordion-content {
     display: none;
   }
-
-
 </style>
+  <h1> Education </h1>
   <section id="education">
     <div class="accordion">
       <div class='accordion-header'>
@@ -84,8 +83,6 @@ Jr. Software Engineer
         </div>
       </div>
     </section>
-
-</style>
   <h1> Previous Job Experience </h1>
   <section id="Previous Job Experience">
     <div class="accordion">
