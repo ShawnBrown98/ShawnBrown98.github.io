@@ -129,7 +129,7 @@ Jr. Software Engineer
         <br>
         Unity Games (C#)
         <br>
-        Calculator (JavaScript)
+        <a href="https://shawnbrown98.github.io/calculator.html">Calculator (JavaScript) </a>
         <br>
         Inches to CM/MM Converter (C++)
         <br>
