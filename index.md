@@ -127,7 +127,7 @@ Jr. Software Engineer
       <div class="accordion-content">
         Discord Bot Project (Python)
         <br>
-        <a href="https://shawnbrown98.github.io/GithubBuild/index.html">Unity Games (C#)</a>
+        <a href="https://shawnbrown98.github.io/GithubBuild/index.html">Unity Game (C#) (In Progress)</a>
         <br>
         <a href="https://shawnbrown98.github.io/calculator.html">Calculator (JavaScript) </a>
         <br>
