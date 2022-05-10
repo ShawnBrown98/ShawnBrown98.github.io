@@ -129,7 +129,6 @@ Jr. Software Engineer
         <a href="https://shawnbrown98.github.io/assignment9.html"> Seasons Changer (JavaScript) </a>
       </div>
     </div>
-    <section id="Skills">
       <div class="accordion">
         <div class='accordion-header'>
           <div class="accordion-title">Cybersecurity</div>
