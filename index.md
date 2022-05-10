@@ -133,7 +133,7 @@
         <br>
         Inches to CM/MM Converter (C++)
         <br>
-        Seasons Changer
+        Seasons Changer (JavaScript)
       </div>
     </div>
     <section id="Skills">
