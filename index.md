@@ -12,7 +12,6 @@
       </div>
     </div>
     <section id="Contact">
-      </div>
     </section>
 <h2>Email: stbrown98@gmail.com</h2>
 # Job Title or Desired title
