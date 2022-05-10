@@ -1,6 +1,7 @@
 <h1> Shawn Brown </h1>
 # Headshot (Photo)
-# Contact Fields
+# Contact Me
+<h2>Email: stbrown98@gmail.com</h2>
 # Job Title or Desired title
 <h1> Jr. Software Engineer </h1>
 # Education
@@ -54,7 +55,6 @@
       </div>
     </section>
   
-# Previous Job Experience
   <style>
   .accordion{
     max-width: 500px;
