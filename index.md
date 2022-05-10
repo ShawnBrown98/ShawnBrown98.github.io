@@ -1,5 +1,15 @@
 
 <h1> Shawn Brown </h1>
+  <section id="About Me">
+    <div class="accordion">
+      <div class='accordion-header'>
+        <div class="accordion-title">About Me</div>
+        <span class="accordion-icon">+</span>
+      </div>
+      <div class="accordion-content">
+        I have always had a passion for programming, beginning when I first went to Codecademy at 14. The purpose of this portfolio website is to showcase the various projects I have been involved with/or created myself!
+      </div>
+    </div>
 Jr. Software Engineer 
 # Contact Me
   <section id="Contact">
