@@ -63,33 +63,6 @@ Jr. Software Engineer
         </div>
       </div>
     </section>
-  
-  <style>
-  .accordion{
-    max-width: 500px;
-    border: 1px solid #000;
-  }
-  .accordion-header {
-    display: flex;
-    padding: 16px;
-    cursor: pointer;
-    background-color: #F2F2F2
-  }
-  .accordion-icon {
-    width: 16px
-    color: #C00
-  }
-  .accordion-content {
-    padding: 16px;
-
-  }
-  .accordion-title {
-    flex: 1;
-  }
-  .accordion-content {
-    display: none;
-  }
-
 
 </style>
   <h1> Previous Job Experience </h1>
