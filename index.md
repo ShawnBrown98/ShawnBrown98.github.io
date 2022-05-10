@@ -12,6 +12,17 @@ Jr. Software Engineer
         stbrown98@gmail.com
       </div>
     </div>
+     <section id="Contact">
+      <div class="accordion">
+        <div class='accordion-header'>
+          <div class="accordion-title">Github</div>
+          <span class="accordion-icon">+</span>
+        </div>
+        <div class="accordion-content">
+          <a href="https://github.com/Operance">My personal Github </a>
+          <br>
+          <a href="https://github.com/ShawnBrown98">My school github </a>
+        </div>
     </section>
 # Education
 <style>
@@ -79,7 +90,7 @@ Jr. Software Engineer
         <br>
       </div>
     </div>
-    <section id="education">
+    <section id="Previous Job Experience">
       <div class="accordion">
         <div class='accordion-header'>
           <div class="accordion-title">Best Buy</div>
