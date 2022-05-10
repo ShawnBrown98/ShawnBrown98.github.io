@@ -83,6 +83,7 @@
 
 
 </style>
+  <h1> Previous Job Experience </h1>
   <section id="Previous Job Experience">
     <div class="accordion">
       <div class='accordion-header'>
