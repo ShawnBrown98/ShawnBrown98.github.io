@@ -1,4 +1,4 @@
-<p align="center">
+
 <h1> Shawn Brown </h1>
 Jr. Software Engineer 
 # Contact Me
