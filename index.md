@@ -10,6 +10,7 @@
         I have always had a passion for programming, beginning when I first went to Codecademy at 14. The purpose of this portfolio website is to showcase the various projects I have been involved with/or created myself! My desired is to become a Junior Software Engineer!
       </div>
     </div>
+  </section>
   
   <h1> Contact Me </h1>
   <section id="Contact">
