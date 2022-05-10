@@ -116,7 +116,7 @@
         </div>
       </div>
     </section>
-# Skills
+    
   <h1> Skills </h1>
   <section id="Skills">
     <div class="accordion">
