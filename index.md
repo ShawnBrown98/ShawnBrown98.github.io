@@ -66,6 +66,7 @@ for(let i=0; i < accordionHeaders.length; i++){
   })
 }
 </script>
+  
 # Previous Job Experience
   <style>
   .accordion{
@@ -129,6 +130,6 @@ for(let i=0; i < accordionHeaders.length; i++){
 
   })
 }
-    </script>
+</script>
 # Skills
 
