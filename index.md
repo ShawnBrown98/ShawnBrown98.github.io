@@ -106,6 +106,31 @@
       </div>
     </section>
 # Skills
+  <h1> Skills </h1>
+  <section id="Skills">
+    <div class="accordion">
+      <div class='accordion-header'>
+        <div class="accordion-title">Software Development</div>
+        <span class="accordion-icon">+</span>
+      </div>
+      <div class="accordion-content">
+        Discord Bot Project (Python)
+        Unity Games (C#)
+        Calculator (JavaScript)
+        Inches to CM/MM Converter (C++)
+      </div>
+    </div>
+    <section id="Skills">
+      <div class="accordion">
+        <div class='accordion-header'>
+          <div class="accordion-title">Cybersecurity</div>
+          <span class="accordion-icon">+</span>
+        </div>
+        <div class="accordion-content">
+          Mount Aloysius College Cyber Defense Team
+        </div>
+      </div>
+    </section>
 
 <script>
 const accordionHeaders = document.getElementsByClassName('accordion-header');
