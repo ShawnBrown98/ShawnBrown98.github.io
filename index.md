@@ -97,7 +97,6 @@ Jr. Software Engineer
         <br>
       </div>
     </div>
-    <section id="Previous Job Experience">
       <div class="accordion">
         <div class='accordion-header'>
           <div class="accordion-title">Best Buy</div>
