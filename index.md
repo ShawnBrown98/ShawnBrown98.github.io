@@ -99,7 +99,10 @@ Jr. Software Engineer
         <span class="accordion-icon">+</span>
       </div>
       <div class="accordion-content">
+        Combat Engineer
+        <br>
         22 June 2016 - 21 June 2022
+        <br>
       </div>
     </div>
     <section id="education">
@@ -109,6 +112,8 @@ Jr. Software Engineer
           <span class="accordion-icon">+</span>
         </div>
         <div class="accordion-content">
+          Computing Sales Advisor
+          <br>
           05 October 2020 - 30 April 2021
         </div>
       </div>
