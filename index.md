@@ -61,6 +61,7 @@
     display: none;
   }
 </style>
+  
   <h1> Education </h1>
   <section id="education">
     <div class="accordion">
@@ -82,6 +83,7 @@
         </div>
       </div>
     </section>
+  
   <h1> Previous Job Experience </h1>
   <section id="Previous Job Experience">
     <div class="accordion">
