@@ -117,19 +117,5 @@ for(let i=0; i < accordionHeaders.length; i++){
         </div>
       </div>
     </section>
-<script>
-const accordionHeaders = document.getElementsByClassName('accordion-header');
-const accordionContents = document.getElementsByClassName('accordion-content');
-const accordionIcons = document.getElementsByClassName('accordion-icon');
-
-for(let i=0; i < accordionHeaders.length; i++){
-  accordionHeaders[i].addEventListener('click', () => {
-    accordionContents[i].style.display = accordionContents[i].style.display == 'block' ? 'none' : 'block';
-    accordionIcons[i].innerHTML = accordionContents[i].style.display == 'block' ? '-' : '+';
-
-
-  })
-}
-</script>
 # Skills
 
