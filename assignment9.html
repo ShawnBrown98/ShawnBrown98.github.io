@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+<style>
+
+</style>
+
+
+</head>
+
+<body>
+
+
+<form>
+
+Below is a menu of some of my interests:
+
+<select id="interests" onchange="interestsMenu(this)">
+  <option value="Home">Home</option>
+  <option value="Music">Music</option>
+  <option value="Sports">Sports</option>
+  <option value="Hobbies">Hobbies</option>
+
+
+</select>
+
+</form>
+<div id="Music" class="interests" style="display:none">
+<h1>Music:</h1>
+<h2>I like music from various different genres! My favorite would have to be 80's style heavy metal though! Like Dio for example.
+<img src="http://www.dio.net/pictures_gallery/8310_milwaukee_ronnie.jpg">
+<h3>I also play guitar! Check the "hobbies" tab for more info! </h3>
+</div>
+
+<div id="Sports" class="interests" style="display:none">
+<h1>Sports:</h3>
+<h2>My favorite sports team would have to be the New England Patriots! We miss Brady. </h2>
+<img src = "https://static.clubs.nfl.com/image/private/f_auto/patriots/ftuml6gmogyahtnd2neb">
+</div>
+
+<div id="Hobbies" class="interests" style="display:none">
+<h1>Hobbies:</h1>
+<h2>I've been playing guitar since I was about 13 and play in a band! I also love playing PC games and working on my Discord Bot </h2>
+<img src = "https://image.shutterstock.com/image-vector/black-white-guitars-acoustic-electric-600w-1500673049.jpg">
+
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-rainbow" viewBox="0 0 16 16">
+  <path d="M8 4.5a7 7 0 0 0-7 7 .5.5 0 0 1-1 0 8 8 0 1 1 16 0 .5.5 0 0 1-1 0 7 7 0 0 0-7-7zm0 2a5 5 0 0 0-5 5 .5.5 0 0 1-1 0 6 6 0 1 1 12 0 .5.5 0 0 1-1 0 5 5 0 0 0-5-5zm0 2a3 3 0 0 0-3 3 .5.5 0 0 1-1 0 4 4 0 1 1 8 0 .5.5 0 0 1-1 0 3 3 0 0 0-3-3zm0 2a1 1 0 0 0-1 1 .5.5 0 0 1-1 0 2 2 0 1 1 4 0 .5.5 0 0 1-1 0 1 1 0 0 0-1-1z"/>
+</svg>
+
+<script>
+
+function interestsMenu(selectElem) {
+  var i = selectElem.selectedIndex;
+  if (i < 0) {
+    return;
+  }
+  var optionValue = selectElem.options[i].value
+
+  if(optionValue === "Music")
+  {
+    document.body.style.backgroundColor = "#ffffff"
+    document.getElementById("Music").style.display = "Block"
+    document.getElementById("Sports").style.display = "None"
+    document.getElementById("Hobbies").style.display = "None"
+  }
+  if(optionValue === "Sports")
+  {
+    document.body.style.backgroundColor = "#002244"
+    document.getElementById("Music").style.display = "None"
+    document.getElementById("Sports").style.display = "Block"
+    document.getElementById("Hobbies").style.display = "None"
+  }
+  if(optionValue === "Hobbies")
+  {
+    document.body.style.backgroundColor = "#EA3913"
+    document.getElementById("Music").style.display = "None"
+    document.getElementById("Sports").style.display = "None"
+    document.getElementById("Hobbies").style.display = "Block"
+  }
+
+
+}
+
+
+</script>
+
+
+
+
+</body>
+
+</html>
