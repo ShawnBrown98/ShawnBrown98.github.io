@@ -16,6 +16,7 @@
 # Job Title
 <h1> Jr. Software Engineer </h1>
 # Education
+  <h1> Education </h1>
 <style>
   .accordion{
     max-width: 500px;
