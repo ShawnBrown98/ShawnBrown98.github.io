@@ -1,3 +1,4 @@
+<p align="center">
 <h1> Shawn Brown </h1>
 Jr. Software Engineer 
 # Contact Me
@@ -149,6 +150,7 @@ Jr. Software Engineer
         </div>
       </div>
     </section>
+    </p>
 
 <script>
 const accordionHeaders = document.getElementsByClassName('accordion-header');
