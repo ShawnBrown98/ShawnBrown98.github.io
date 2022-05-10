@@ -150,7 +150,6 @@ Jr. Software Engineer
         </div>
       </div>
     </section>
-    </p>
 
 <script>
 const accordionHeaders = document.getElementsByClassName('accordion-header');
