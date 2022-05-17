@@ -33,7 +33,7 @@
         <br>
          <a href="https://i.imgur.com/rMoUJUo.png">Text Alerts </a>
         <br>
-        -Temp Email
+         <a href="https://i.imgur.com/FsgC44d.png">Temp Email </a>
       </div>
     </div>
   </section>
