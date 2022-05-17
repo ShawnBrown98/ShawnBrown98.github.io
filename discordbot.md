@@ -23,11 +23,16 @@
  <section id="Examples">
     <div class="accordion">
       <div class='accordion-header'>
-        <div class="accordion-title">Examples</div>
+        <div class="accordion-title">Features</div>
         <span class="accordion-icon">+</span>
       </div>
       <div class="accordion-content">
-        -Give Cred
+         <div class="accordion">
+          <div class='accordion-header'>
+            <div class="accordion-title">Give Cred</div>
+             <span class="accordion-icon">+</span>
+              <div class="accordion-content">
+                <img src = "https://imgur.com/a/MzfjGAO"></img>
         <br>
         -Rewards
         <br>
