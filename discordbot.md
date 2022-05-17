@@ -6,15 +6,15 @@
   <br>
   Features:
   <br>
-     &nbsp- Reward "Cred" to members of the discord server
+     &nbsp&nbsp- Reward "Cred" to members of the discord server
     <br>
-     &nbsp- "Cred" can be "cashed in" for rewards such as, "muting", "deafening" and "kicking" other members of the server
+     &nbsp&nbsp- "Cred" can be "cashed in" for rewards such as, "muting", "deafening" and "kicking" other members of the server
     <br>
-     &nbsp- Text alerts on voice channel join to enabled users
+     &nbsp&nbsp- Text alerts on voice channel join to enabled users
     <br>
-     &nbsp- Custom admin text alerts to enabled users
+     &nbsp&nbsp- Custom admin text alerts to enabled users
     <br>
-     &nbsp- Request and recieve emails through a temp email using the discord bot
+     &nbsp&nbsp- Request and recieve emails through a temp email using the discord bot
     <br>
   </section>
  <br>
