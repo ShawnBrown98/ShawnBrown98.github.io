@@ -122,13 +122,13 @@
       <div class="accordion-content">
         Discord Bot Project (Python)
         <br>
-        <a href="https://shawnbrown98.github.io/GithubBuild/index.html">Unity Game (C#) (In Progress)</a>
+        <a href="https://shawnbrown98.github.io/PortfolioBuild/index.html">Unity Game (C#) (In Progress)</a>
         <br>
         <a href="https://shawnbrown98.github.io/calculator.html">Calculator (JavaScript) </a>
         <br>
-        <a href="https://replit.com/@operance/Playing-around-with-C#main.cpp">Inches to CM/MM Converter (C++) </a>
+        <a href="https://replit.com/@operance/Playing-around-with-C#main.cpp">Basic inches to CM/MM Converter (C++) </a>
         <br>
-        <a href="https://shawnbrown98.github.io/assignment9.html"> Seasons Changer (JavaScript) </a>
+        <a href="https://github.com/Operance/NPL/tree/master/Project%20NPL/Assets/Scripts"> Former Unity Game Project (JavaScript) </a>
       </div>
     </div>
       <div class="accordion">
@@ -137,7 +137,7 @@
           <span class="accordion-icon">+</span>
         </div>
         <div class="accordion-content">
-          Mount Aloysius College Cyber Defense Team
+          Mount Aloysius College Cyber Defense Team (2022-Present)
         </div>
       </div>
     </section>
