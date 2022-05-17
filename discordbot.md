@@ -4,11 +4,11 @@ permalink: /discordbot/
 
 <section id="About">
   <h1>Discord Bot Project </h1>
-  -Language: Python
+  - Language: Python
   <br>
-  -APIs: discord.py, smtplib, tempmail, replit
+  - APIs: discord.py, smtplib, tempmail, replit
   <br>
-  -Features:
+  - Features:
     - Reward "Cred" to members of the discord server
     <br>
     - "Cred" can be "cashed in" for rewards such as, "muting", "deafening" and "kicking" other members of the server
