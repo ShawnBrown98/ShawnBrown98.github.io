@@ -31,7 +31,7 @@
         <br>
          <a href="https://i.imgur.com/wiZjboM.png"> Rewards </a>
         <br>
-        -Text Alerts
+         <a href="https://i.imgur.com/rMoUJUo.png">Text Alerts </a>
         <br>
         -Temp Email
       </div>
