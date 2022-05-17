@@ -1,7 +1,3 @@
-layout: page
-title: "Discord Bot Project, Shawn Brown"
-permalink: /discordbot/
-
 <section id="About">
   <h1 style="font-weight: bold">Discord Bot Project </h1>
   - Language: Python
