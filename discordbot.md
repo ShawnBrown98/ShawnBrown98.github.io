@@ -1,20 +1,20 @@
 <section id="About">
   <h1 style="font-weight: bold">Discord Bot Project </h1>
-  - Language: Python
+  **Language**: Python
   <br>
-  - APIs: discord.py, smtplib, tempmail, replit
+  **APIs**: discord.py, smtplib, tempmail, replit
   <br>
-  - Features:
+  **Features**:
   <br>
-    > - Reward "Cred" to members of the discord server
+     - Reward "Cred" to members of the discord server
     <br>
-    > - "Cred" can be "cashed in" for rewards such as, "muting", "deafening" and "kicking" other members of the server
+     - "Cred" can be "cashed in" for rewards such as, "muting", "deafening" and "kicking" other members of the server
     <br>
-    > - Text alerts on voice channel join to enabled users
+     - Text alerts on voice channel join to enabled users
     <br>
-    > - Custom admin text alerts to enabled users
+     - Custom admin text alerts to enabled users
     <br>
-    > - Request and recieve emails through a temp email using the discord bot
+     - Request and recieve emails through a temp email using the discord bot
     <br>
   </section>
  <br>
