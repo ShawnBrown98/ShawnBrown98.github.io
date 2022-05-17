@@ -120,7 +120,7 @@
         <span class="accordion-icon">+</span>
       </div>
       <div class="accordion-content">
-        Discord Bot Project (Python)
+        <a href="https://shawnbrown98.github.io/discordbot"> Discord Bot Project (Python)</a>
         <br>
         <a href="https://shawnbrown98.github.io/PortfolioBuild/index.html">Unity Game (C#) (In Progress)</a>
         <br>
