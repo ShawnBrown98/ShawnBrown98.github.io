@@ -1,3 +1,3 @@
-title: Discord Bot Project, Shawn Brown
-layout: template
-filename: discordbot.md
+layout: page
+title: "Discord Bot Project, Shawn Brown"
+permalink: /discordbot/
