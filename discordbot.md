@@ -18,6 +18,21 @@
     <br>
   </section>
   
+  <section id="Examples">
+    <div class="accordion">
+       <div class="accordion-header">
+         <div class="accordion-title">Examples</div>
+         <span class="accordion-icon">+</span>
+      </div>
+      <div class="accordion-content">
+        - Give Cred
+        <br>
+        - Rewards
+        <br>
+        - Text Alerts
+        <br>
+        - Temp Email
+  
   
     
 
