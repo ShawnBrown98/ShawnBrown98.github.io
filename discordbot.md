@@ -32,7 +32,7 @@
             <div class="accordion-title">Give Cred</div>
              <span class="accordion-icon">+</span>
               <div class="accordion-content">
-                <img src = "https://imgur.com/a/MzfjGAO"></img>
+                <img src = "https://i.imgur.com/2Upd0Eq.png"></img>
         <br>
         -Rewards
         <br>
