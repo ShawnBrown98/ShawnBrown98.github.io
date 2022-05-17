@@ -17,7 +17,7 @@
     > - Request and recieve emails through a temp email using the discord bot
     <br>
   </section>
-  
+ <br>
  <section id="Examples">
     <div class="accordion">
       <div class='accordion-header'>
