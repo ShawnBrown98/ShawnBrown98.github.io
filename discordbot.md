@@ -29,7 +29,7 @@
        <div class="accordion-content">
          <a href="https://i.imgur.com/2Upd0Eq.png">Give Cred </a>
         <br>
-        -Rewards
+         <a href="https://i.imgur.com/wiZjboM.png"> Rewards </a>
         <br>
         -Text Alerts
         <br>
