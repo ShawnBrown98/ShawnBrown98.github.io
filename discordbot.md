@@ -2,7 +2,7 @@
   <h1 style="font-weight: bold">Discord Bot Project </h1>
   Language: Python
   <br>
-  APIs: discord.py, smtplib, tempmail, replit
+  APIs: discord.py, smtplib, tempmail, replit, Twilio
   <br>
   Features:
   <br>
@@ -16,6 +16,8 @@
      - Custom admin text alerts to enabled users
     <br>
      - Request and recieve emails through a temp email using the discord bot
+    <br>
+     - Utilizing Twilio to have the bot perform "wake up" calls to enabled users phones at user-specified times. (In Progress)
     <br>
   </ul>
   </section>
