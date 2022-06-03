@@ -1,5 +1,6 @@
 
 <h1> Shawn Brown </h1>
+<strong><h1><a href="operance.github.io">MY NEW PORTFOLTIO WEBSITE IS LOCATED AT OPERANCE.GITHUB.IO</strong></h1></a>
   <section id="About Me">
     <div class="accordion">
       <div class='accordion-header'>
